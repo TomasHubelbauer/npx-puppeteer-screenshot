@@ -10,14 +10,14 @@ void async function () {
     }
 
     if (!url.startsWith('http')) {
-      url = `file://${__dirname}/${url}`;
+      url = `file://${process.cwd()}/${url}`;
     }
 
     const [page] = await browser.pages();
     console.log(url);
     await page.goto(url);
     await page.screenshot({ path: 'screenshot.png' });
-    console.log('    -> ' + __dirname + '/screenshot.png');
+    console.log(`    -> ${process.cwd()}/screenshot.png`);
   }
   catch (error) {
     throw error;
