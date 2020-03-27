@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-screensht",
+  "version": "1.0.0",
+  "bin": {
+    "shoot": "."
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
