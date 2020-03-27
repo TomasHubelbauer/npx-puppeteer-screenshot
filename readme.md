@@ -18,8 +18,18 @@ Or `npx https://github.com/TomasHubelbauer/npx-puppeteer-screenshot`
 
 ## Status
 
-Probably broken.
+Not maintained.
 
 ## To-Do
 
-### Test it works
+### Add an option to capture full page screenshots
+
+### Add an option to wait for a selector or a timeout
+
+### If `index.html` exists and there is no argument, assume `index.html`
+
+### Add a help switch
+
+### Add a switch to disable web security to allow `fetch` on `file://` protocol
+
+Maybe do this automatically?
