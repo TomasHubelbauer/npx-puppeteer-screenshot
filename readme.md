@@ -4,9 +4,9 @@ A CLI tool named `shoot` for capturing web page screenshots.
 
 ## Installation
 
-`npm i -g https://github.com/TomasHubelbauer/npx-puppeteer-screenshot`
+`npm i -g tomashubelbauer/npx-puppeteer-screenshot`
 
-Or `npx https://github.com/TomasHubelbauer/npx-puppeteer-screenshot`
+Or `npx tomashubelbauer/npx-puppeteer-screenshot`
 
 ## Usage
 
