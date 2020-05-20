@@ -1,20 +1,19 @@
-# NPX Puppeteer Screenshot
+# Shoot
 
-A CLI tool named `shoot` for capturing web page screenshots.
+A CLI tool for capturing web page screenshots.
 
 ## Installation
 
-`npm i -g tomashubelbauer/npx-puppeteer-screenshot`
-
-Or `npx tomashubelbauer/npx-puppeteer-screenshot`
+- `npm i -g tomashubelbauer/shoot` to install globally
+- `npx tomashubelbauer/shoot` to run one-off
 
 ## Usage
 
-`shoot .` or `shoot test.html` or `shoot https://google.com/ncr`
+`shoot .` or `shoot test.html` or `shoot google.com/ncr`
 
 ## Testing
 
-`node . https://google.com/ncr` or `node . test.html`
+`node . google.com/ncr` or `node . test.html`
 
 ## Status
 
