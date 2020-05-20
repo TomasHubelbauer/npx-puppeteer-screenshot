@@ -4,8 +4,8 @@ A CLI tool for capturing web page screenshots.
 
 ## Installation
 
-- `npm i -g tomashubelbauer/shoot` to install globally
-- `npx tomashubelbauer/shoot` to run one-off
+- `npm i -g tomashubelbauer/shoot` to install/update globally
+- `npx tomashubelbauer/shoot` to execute ad-hoc
 
 ## Usage
 
