@@ -20,6 +20,16 @@ Or `npx tomashubelbauer/npx-puppeteer-screenshot`
 
 Not maintained.
 
+## Changelog
+
+### 2020-05-20
+
+Resolves file names to `file://` URLs and prepends `http://` if missing.
+
+### 2020-03-27
+
+Initial version released.
+
 ## To-Do
 
 ### Add an option to capture full page screenshots

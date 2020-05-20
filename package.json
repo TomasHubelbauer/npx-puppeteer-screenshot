@@ -5,6 +5,7 @@
     "shoot": "index.js"
   },
   "dependencies": {
+    "fs-extra": "^9.0.0",
     "puppeteer": "^2.1.1"
   }
 }
