@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-screenshot",
+  "name": "shoot",
   "version": "1.0.0",
   "bin": {
     "shoot": "index.js"
