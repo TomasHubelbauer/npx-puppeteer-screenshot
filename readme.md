@@ -11,6 +11,10 @@ A CLI tool for capturing web page screenshots.
 
 `shoot .` or `shoot test.html` or `shoot google.com/ncr`
 
+## API
+
+This package does not export any API, use Puppeteer.
+
 ## Testing
 
 `node . google.com/ncr` or `node . test.html`
